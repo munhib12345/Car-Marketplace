@@ -1,6 +1,4 @@
 [README.md](https://github.com/user-attachments/files/33000902/README.md)
-# Car-Marketplace
-CarMarketplace is a JavaFX-based vehicle marketplace application featuring customer and dealership accounts, vehicle listing management, multi-criteria search, sorting, and persistent file storage. It demonstrates OOP, custom hash tables, dynamic lists, arrays, and Merge Sort through a practical marketplace system.
 # AutoMarket -- Online Car Dealership & Vehicle Marketplace
 
 AutoMarket is a JavaFX-based vehicle marketplace application designed
