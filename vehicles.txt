@@ -1,0 +1,2 @@
+1|1|Mercedes|e55 amg|2005|1.0E7|16000|petrol|auto|pib|1|true
+2|12|Toyots|Landcruiser|2019|4.0E7|20000|petrol|auto|pib|1|true
